@@ -1,0 +1,21 @@
+{
+  "name": "vue-bulma-animation",
+  "version": "1.0.0",
+  "description": "Animation Components for Vue Bulma",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "nimate.css": ">=3.5",
+    "vue": ">=2"
+  },
+  "repository": "vue-bulma/animation",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-datepicker",
+    "datepicker"
+  ],
+  "author": "Luventa Pan <luventa@outlook.com>",
+  "license": "MIT"
+}
